@@ -165,7 +165,7 @@ footer a {
 }
 
 
-@media (min-width:500px) and (max-width:800px){
+@media (min-width:300px) and (max-width:800px){
     .container {
         display: flex;
         flex-direction: column;
